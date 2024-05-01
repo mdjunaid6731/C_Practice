@@ -8,6 +8,6 @@ int main(){
     scanf("%d",&n);
     square = n*n;
     cube = n*n*n;
-    printf("Square: %d and Cube: %d: ", square, cube);
+    printf("Square: %d \nCube: %d ", square, cube);
     return 0;
     }
