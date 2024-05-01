@@ -4,9 +4,9 @@
 
 int main(){
     float a, b, c;
-    printf("Enter the value of a:");
+    printf("Enter the value of a...:");
     scanf("%f",&a);
-    printf("Enter the value of b:");
+    printf("Enter the value of b....:");
     scanf("%f",&b);
     printf("Division of two numbers is %f", a / b);
     return 0;
