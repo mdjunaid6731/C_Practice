@@ -1,4 +1,4 @@
-//Addition of two nnumbers
+//Addition of two numbers
 #include<stdio.h>
 int main()
 {
