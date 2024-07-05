@@ -1,15 +1,13 @@
-// print numbers from 1 to n
+// Print first n odd numbers
 #include<stdio.h>
 
 int main(){
-    int i=1,n;
+    int n, i=1;
     printf("Enter the value of n:");
     scanf("%d",&n);
-    while (i<=n)
-    {
+    while(i<=n){
         printf("%d\n",i);
-        i++;
+        i = i+2;
     }
     return 0;
 }
-
