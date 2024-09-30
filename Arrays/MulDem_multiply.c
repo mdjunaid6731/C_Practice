@@ -1,3 +1,5 @@
+//Multiplication of two martix
+
 #include<stdio.h>
 
 int main(){
